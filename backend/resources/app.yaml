@@ -1,0 +1,7 @@
+runtime: nodejs12
+
+env_variables:
+  DB_USER: tanmay-jain
+  DB_PASS: t@nm@ysql
+  DB_NAME: my_cloud_db
+  CLOUD_SQL_CONNECTION_NAME: thematic-mapper-274909:asia-south1:tj-project-db
